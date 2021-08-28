@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643112498665",
+    "project_id": "planti-3ea34",
+    "storage_bucket": "planti-3ea34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643112498665:android:45abd070bb853df8134778",
+        "android_client_info": {
+          "package_name": "com.greenfactory.planti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643112498665-ebtragtsl2aq5qclncmthhpgudm6744o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG9Mw6AzRxondw2vUOp1Xt3H9Ubj2onc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643112498665-ebtragtsl2aq5qclncmthhpgudm6744o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
